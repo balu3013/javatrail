@@ -20,6 +20,7 @@ public class Trail{
         System.out.println(strLiteral);
 
         FileReader fr = new FileReader("./index.txt");
-        System.out.println(fr.nextLine());
+        System.out.println("new text added");
+        
     }
 }
